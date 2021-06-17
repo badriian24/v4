@@ -1,37 +1,37 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'ian24fd24@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/badriian24',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/fiqih_badrian',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/fiqih_badrian',
     },
     {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      name: 'Trakteer',
+      url: 'https://trakteer.id/badriian24',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Discord',
+      url: 'https://discord.com/channels/@me/776714971782053889',
     },
   ],
 
   navLinks: [
     {
-      name: 'About',
-      url: '/#about',
+      name: 'Home',
+      url: '/',
     },
     {
-      name: 'Experience',
-      url: '/#jobs',
+      name: 'About',
+      url: '/#about',
     },
     {
       name: 'Work',
