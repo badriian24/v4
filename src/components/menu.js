@@ -267,7 +267,7 @@ const Menu = () => {
             )}
 
             <a href="contact.bdrxzzz.ml" className="resume-link">
-              Resume
+              Connstact Me
             </a>
           </nav>
         </StyledSidebar>
